@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_FindNotExistingOwner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8493092a-2735-416b-b240-db0a7cd6f575</testCaseGuid>
+</TestCaseEntity>

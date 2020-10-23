@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_FindExistingOwner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee47f854-da78-4ea8-8fb1-d8f1b411abe6</testCaseGuid>
+</TestCaseEntity>
